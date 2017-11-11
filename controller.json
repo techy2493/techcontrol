@@ -1,0 +1,8 @@
+{
+    "Version":"1.0.0",
+    "Type":"ServUO",
+    "TypeVersion":"Latest",
+    "StartDir":"c:/servuotest",
+    "GitRepo":"https://github.com/techy2493/ServUO.git",
+    "GitBranch":"master"
+}

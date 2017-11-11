@@ -1,0 +1,20 @@
+<head>
+    <title>
+        Tech Control
+    </title>
+</head>
+
+<body>
+    <center>
+        <h1> Tech Control Panel </h1>
+        <br />
+        <br />
+        <form action="/control" method="POST" enctype="application/json">
+            <input type="radio" name="action" value="stop" checked> Stop
+            <input type="radio" name="action" value="start"> Start
+            <input type="radio" name="action" value="restart"> Restart
+            <input type="radio" name="action" value="update"> Update <br />
+            <input type="submit" value="Submit">
+        </form> 
+    </center>
+</body>
