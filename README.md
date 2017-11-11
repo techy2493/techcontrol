@@ -6,6 +6,8 @@ If you want more information or want to help out I can be reached at brandynabel
 # Why isn't there more info here?
 
 I'm working on adding more inforamtion as I can check back soon!
+While I update this you can check out my trello board to see a list of features I plan to impement.
+<https://trello.com/b/9jE9Cs5g/techcontrol>
 
 # What kind of project is this?
 
