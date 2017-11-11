@@ -1,0 +1,12 @@
+{ 
+    "userlist": [
+        { 
+            "username": "techy",
+            "password": "yugioh"
+        },
+         { 
+            "username": "test",
+            "password": "test"
+        }
+    ]
+}
