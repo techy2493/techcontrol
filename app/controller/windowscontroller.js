@@ -109,7 +109,7 @@ function controller(os) {
     this.update = function(){
         switch (updateStrategy){
             case GIT: {
-                child_process.execSync('git pull --depth=1 --branch=' + config['GitBranch'] + ' ' + config['GitRepo'], {cwd:config['StartDir']} )
+                child_process.execSync('git pull --depth=1 ', {cwd:config['StartDir']} )
             }
         }
     }

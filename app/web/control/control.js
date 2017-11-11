@@ -21,7 +21,7 @@ function control() {
                 controller.restart();
                 break;
             case 'update':
-                console.log('Not implimented Yet!');
+                controller.update();
                 break;
          }
     }
