@@ -12,3 +12,7 @@ While I update this you can check out my trello board to see a list of features 
 # What kind of project is this?
 
 TechControl is a game server control panel written entirely in javascript, typescript, html, and css. It is executed by Node and because of this is cross platform.
+
+# Currently Supported Server Softwares
+
+- ServUO
